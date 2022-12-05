@@ -1,14 +1,13 @@
 # SimpleWaveShaderDemo
 
-Besprechung und Implementierung der folgenden Komponenten:
+Lösung zum praktischen Teil des dritten Übungsblatts:
 
-    Matrix Transformations,
-    Rotations,
     ShaderGraph in Unity,
     Vertex Shader,
-    Fragment Shader
+    Fragment Shader,
+    Entwicklung eines simplen Wave Shaders
 
 
-Die Shadersammlung ist ebenfalls auf Github hochgeladen: https://github.com/ADockhorn/2D-Shaders
+Zusätzlich findet ihr eine Shadersammlung für 2D Grafiken unter: https://github.com/ADockhorn/2D-Shaders
 
 Aufnahmen zur Übung findet ihr im StudIP
